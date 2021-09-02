@@ -20,6 +20,7 @@
 	},
 	"homepage": "https://github.com/bsopecki/football-app#readme",
 	"dependencies": {
+		"@types/node": "^16.7.10",
 		"nodemon": "^2.0.12"
 	}
 }
